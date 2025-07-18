@@ -61,7 +61,7 @@
   </style>
 </head>
 <body>
-  <div class="title">TMS by Zalan with help of Tawqeer and Huzaifa</div>
+  <div class="title">Transport Management System</div>
 
   <div class="login-box">
     <h1>Login</h1>
