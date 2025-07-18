@@ -51,9 +51,9 @@ A full-featured Transport Management System web application developed using HTML
 
 ---
 
-## 📸 Screenshots
+## 📸 Presentation
+[TMS_Presentation.pdf](https://github.com/user-attachments/files/21315643/TMS_Presentation.pdf)
 
-> _Add images of login page, admin dashboard, and feature pages here._
 
 ---
 
@@ -61,7 +61,7 @@ A full-featured Transport Management System web application developed using HTML
 
 **Zalan**  
 _Automation & Backend Enthusiast_  
-GitHub: [yourusername](https://github.com/yourusername)
+GitHub: [DrDee3a12](https://github.com/DrDee3a12)
 
 ---
 
